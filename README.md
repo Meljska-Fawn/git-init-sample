@@ -12,9 +12,6 @@ N/A
 
 To use this webpage you can either scroll to each section and view the content or click on the navigation links, which will direct you to the choosen section. 
 
-
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 I used fontawesome for the icons in my contacts section. https://fontawesome.com/
@@ -23,5 +20,10 @@ I used Google Fonts for my two fonts. https://fonts.google.com/
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Deployment Links
+
+
+## Website Screenshot
 
 <img src="./assets/images/webpage_screenshot.png" width="50%" height="50%">
