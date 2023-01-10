@@ -21,9 +21,13 @@ I used Google Fonts for my two fonts. https://fonts.google.com/
 
 Please refer to the LICENSE in the repo.
 
-## Deployment Links
+## Links
+
+* [Link to the deployed webpage] (https://meljska-fawn.github.io/melissa-vaughn-portfolio-website/)
+* [Link to Github repository] (https://github.com/Meljska-Fawn/melissa-vaughn-portfolio-website)
 
 
-## Website Screenshot
+
+## Preview
 
 <img src="./assets/images/webpage_screenshot.png" width="50%" height="50%">
