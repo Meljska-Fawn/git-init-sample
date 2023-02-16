@@ -27,7 +27,6 @@ Please refer to the LICENSE in the repo.
 * [Link to Github repository] (https://github.com/Meljska-Fawn/melissa-vaughn-portfolio-website)
 
 
-
 ## Preview
 
 <img src="./assets/images/webpage_screenshot.png" width="50%" height="50%">
